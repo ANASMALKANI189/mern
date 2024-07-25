@@ -1,0 +1,50 @@
+/* Navbar */
+.nav{
+    display:flex;
+    background-color: #09def5;
+    justify-content: space-between;
+    width: 100%;
+    margin-right: 50%;
+    overflow: hidden;
+    top: 0;
+    position: fixed;
+  }
+  
+  .nav ul {
+    list-style-type: none;
+    padding: 3px;
+    display: flex;
+  }
+  
+  .nav ul li {
+    margin-left: 20px;
+    gap: 10px;
+    float: right;
+  }
+  
+  .search{
+    height: 20px;
+    border-radius: 10px;
+    margin-left: 40PX;
+    width: 460px;
+    outline: none;
+    border-color: white;
+    
+  }
+  
+  
+  img{
+    padding: 0 10px;
+    width: 15px;
+    height: 15px;
+  }
+  .abt{
+    width: 14px;
+    height: 14px;
+  }
+  .cl{
+    width: 14px;
+    height: 14px;
+  }
+  
+  
